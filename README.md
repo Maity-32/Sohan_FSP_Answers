@@ -5,13 +5,13 @@ Submitted by: Sohan Maity
 
 Programs:
 
-Missing Values Handling
-Duplicate Rows Handling
-Min-Max Normalization
-Z-Score Standardization
-Outlier Detection
-Label Encoding
-One-Hot Encoding
-StandardScaler
-Scaling Comparison
-Type Conversion
+1.Missing Values Handling
+2.Duplicate Rows Handling
+3.Min-Max Normalization
+4.Z-Score Standardization
+5.Outlier Detection
+6.Label Encoding
+7.One-Hot Encoding
+8.StandardScaler
+9.Scaling Comparison
+10.Type Conversion
